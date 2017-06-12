@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/codeoutpost/areport-services#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "chai": "^4.0.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "mocha": "^3.4.2",
+    "multer": "^1.3.0"
   }
 }
