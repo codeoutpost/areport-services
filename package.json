@@ -1,0 +1,22 @@
+{
+  "name": "areport-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeoutpost/areport-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeoutpost/areport-services/issues"
+  },
+  "homepage": "https://github.com/codeoutpost/areport-services#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
